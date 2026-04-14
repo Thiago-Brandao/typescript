@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
 "scripts": {
+  "build": "tsc",
   "dev": "ts-node src/aula-02.ts"
 },
   "repository": {
