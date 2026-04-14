@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript", "typescript"],
+  "window.zoomLevel": 1,
+  "code-runner.executorMap": {
+    "typescript": "npx ts-node $fullFileName"
+  },
+  "code-runner.runInTerminal": true
+}
